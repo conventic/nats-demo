@@ -1,5 +1,7 @@
 # Minimal NATS demo with Docker Compose
 
+Learn more about NATS here: [nats.io](https://nats.io/)
+
 This demo runs a local NATS server and two Node.js services: a publisher and a subscriber.
 
 Files:
